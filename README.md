@@ -11,6 +11,40 @@ O objetivo é aplicar o algoritmo guloso, utilizando a coloração de grafos par
 - Algoritmo Guloso
 - Heurística Welsh-Powell
 
+## Como executar
+
+É necessário ter o Java 17 ou superior instalado.
+
+**1. Clone o repositório:**
+
+```bash
+git clone https://github.com/clebio0901/Coloracao-de-Grafos.git
+```
+
+**2. Acesse a pasta do projeto:**
+
+```bash
+cd Coloracao-de-Grafos
+```
+
+**3. Compile o código:**
+
+```bash
+javac Main.java
+```
+
+**4. Execute pelo terminal:**
+
+```bash
+java Main
+```
+
+**Para abrir a interface gráfica:**
+
+```bash
+java Main --gui
+```
+
 ## Autores
 
 <table>
